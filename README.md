@@ -1,9 +1,13 @@
-# React TypeScript Starter Pack
+📝 React TypeScript ToDo App [Demo](https://ystyslo.github.io/todo_app/)
 
-To use this template click `Use this template`
+A simple yet powerful task management app built with React and TypeScript.
+This project demonstrates a clean implementation of CRUD operations through API requests and is ideal for learning how to integrate a frontend with a backend.
 
-### Available Scripts
+⸻
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+🛠️ Features
+• ⚛️ React + TypeScript – modern stack with static typing
+• 🌐 API Integration – supports full CRUD via RESTful API
+• ✅ Task Management – create, edit, delete and complete tasks
+• 🎨 Styled Components / Bulma – customizable UI (depending on setup)
+• ♻️ Component Reusability – modular and scalable structure
